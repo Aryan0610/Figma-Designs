@@ -1,7 +1,8 @@
 [View the Figma Design](https://www.figma.com/design/FIcxmyRMAG6aUgMbuF940j/Untitled?t=wWoTUVxvNhDsv6kL-1)
 
 
-Hotel Booking App - UI/UX Design
+# Hotel Booking App - UI/UX Design
+
 This Hotel Booking App, designed in Figma, showcases a visually engaging and user-friendly interface that emphasizes a seamless booking experience. The app features:
 
 Intuitive Home Page: A clean and organized layout with prominent categories like Beach, Flights, Culture, and Hotels, making it easy for users to navigate and explore different booking options.
